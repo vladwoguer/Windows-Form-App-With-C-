@@ -1,0 +1,9 @@
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\bin\Debug\WindowsFormsApplicationExemplo.exe.config
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\bin\Debug\WindowsFormsApplicationExemplo.exe
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\bin\Debug\WindowsFormsApplicationExemplo.pdb
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.csprojResolveAssemblyReference.cache
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.Form1.resources
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.Properties.Resources.resources
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.csproj.GenerateResource.Cache
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.exe
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplicationExemplo\WindowsFormsApplicationExemplo\obj\Debug\WindowsFormsApplicationExemplo.pdb
